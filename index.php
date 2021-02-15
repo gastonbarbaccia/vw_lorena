@@ -148,7 +148,8 @@
                         <h2>Imponente por derecho propio</h2>
                         <p> El Nuevo T-Cross fue creado para brindarte toda la conectividad, versatilidad y seguridad que necesitás. Sin dudas, una de las propuestas más completas del segmento. Poné primera. </p>
                     </div>
-
+                    <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $18.100</strong></p>
+                    <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $2.000.000</p>
                 </div>
             </div>
         </div>
@@ -252,7 +253,8 @@
                         <p> Llega con una propuesta innovadora para romper con todos los paradigmas y etiquetas. Pensado y centrado en la usabilidad real del cliente, con un diseño innovador y tecnologías premium, el Nivus inaugura un nuevo segmento en nuestro
                             país. </p>
                     </div>
-
+                    <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $20.000</strong></p>
+                    <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $2.090.000</p>
                 </div>
             </div>
         </div>
@@ -327,7 +329,8 @@ banner -->
                         <h2>Volkswagen Amarok</h2>
                         <p> Sin dudas la pick up más potente del segmento, la nueva Amarok V6 viene cargada con 258 caballos de potencia para seguir creando historia dentro de la industria automotriz. </p>
                     </div>
-
+                    <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $22.000</strong></p>
+                    <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $2.839.000</p>
                 </div>
             </div>
         </div>
