@@ -71,11 +71,10 @@
     .whatsapp-icon {
         margin-top: 13px;
     }
-    
+
     #tawkchat-minified-iframe-element {
         display: none !important;
     }
- 
 </style>
 
 <body>
@@ -120,6 +119,24 @@
  banner -->
 
     <!--=================================
+ welcome -->
+
+    <section class="welcome-4 page-section-ptb white-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="section-title">
+                        <h2>Nueva T-Cross</h2>
+                        <div class="separator"></div>
+                        <p>El Nuevo T-Cross mantiene su línea de diseño robusto, a la vez que amplía la gama de colores para ofrecerte el que mejor se adapta a tu estilo. Los espejos rebatibles automáticos suman al confort interior, a la vez que las luces de los faros giran automáticamente hacia cada lado iluminando curvas y cunetas. Sin dudas, el exterior de este SUV es el equilibrio perfecto entre estilismo y funcionalidad.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!--=================================
  banner -->
 
     <section class="overview page-section-ptb bg-16">
@@ -128,7 +145,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="overview-content">
                         <h3 style="color:rgb(5, 5, 109)">Hay un VOLKSWAGEN para vos</h3>
-                        <h2>Nueva T-Cross</h2>
+                        <h2>Imponente por derecho propio</h2>
                         <p> El Nuevo T-Cross fue creado para brindarte toda la conectividad, versatilidad y seguridad que necesitás. Sin dudas, una de las propuestas más completas del segmento. Poné primera. </p>
                     </div>
 
@@ -201,6 +218,24 @@
     </section>
 
     <!--=================================
+ welcome -->
+
+    <section class="welcome-4 page-section-ptb white-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="section-title">
+                        <h2>NUEVO NIVUS</h2>
+                        <div class="separator"></div>
+                        <p>En el interior, el Nuevo Nivus presenta una elevada cantidad de elementos de confort, donde destacan el sistema “Coming and Leaving Home”, dirección eléctrica y volante multifunción, y sensores y cámara de estacionamiento traseros. Además, el Nivus estrena nuevos elementos de conectividad que van a cautivar a los usuarios, como el el sistema de infotainment VW Play, capaz de recopilar información del vehículo, leer prácticamente todos los formatos multimedia, descargar aplicaciones y mucho más. En términos de seguridad, el Nivus llega equipado con seis airbags, control de estabilidad (ESC), anclajes ISOFIX en plazas traseras y control de asistente para arranque en pendientes. En definitiva, el Nuevo Nivus propone un diseño deportivo, el equilibrio perfecto entre potencia, confort y bajo consumo.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!--=================================
  banner -->
 
 
@@ -212,7 +247,8 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12">
                     <div class="overview-content">
-                        <h2>Nuevo Nivus</h2>
+                        <h3 style="color:rgb(5, 5, 109)">Rompiendo esquemas</h3>
+                        <h2>INNOVACIÓN VW </h2>
                         <p> Llega con una propuesta innovadora para romper con todos los paradigmas y etiquetas. Pensado y centrado en la usabilidad real del cliente, con un diseño innovador y tecnologías premium, el Nivus inaugura un nuevo segmento en nuestro
                             país. </p>
                     </div>
@@ -235,48 +271,133 @@ banner -->
                 <div class="col-md-12">
                     <div class="owl-carousel popup-gallery" data-items="3" data-md-items="3" data-sm-items="2" data-xs-items="1" data-space="0">
                         <div class="item">
-                            <a class="popup-img" href="images/t-cross/tcross-exterior-00.jpg">
-                                <img class="img-fluid" src="images/t-cross/tcross-exterior-00.jpg" alt="">
+                            <a class="popup-img" href="images/nivus/nivus-exterior-01.jpg">
+                                <img class="img-fluid" src="images/nivus/nivus-exterior-01.jpg" alt="">
                             </a>
                         </div>
                         <div class="item">
-                            <a class="popup-img" href="images/t-cross/tcross-exterior-01.jpg">
-                                <img class="img-fluid" src="images/t-cross/tcross-exterior-01.jpg" alt="">
+                            <a class="popup-img" href="images/nivus/nivus-exterior-02.jpg">
+                                <img class="img-fluid" src="images/nivus/nivus-exterior-02.jpg" alt="">
                             </a>
                         </div>
                         <div class="item">
-                            <a class="popup-img" href="images/t-cross/tcross-exterior-02.jpg">
-                                <img class="img-fluid" src="images/t-cross/tcross-exterior-02.jpg" alt="">
+                            <a class="popup-img" href="images/nivus/nivus-exterior-03.jpg">
+                                <img class="img-fluid" src="images/nivus/nivus-exterior-03.jpg" alt="">
                             </a>
                         </div>
                         <div class="item">
-                            <a class="popup-img" href="images/t-cross/tcross-interior-00.jpg">
-                                <img class="img-fluid" src="images/t-cross/tcross-interior-00.jpg" alt="">
+                            <a class="popup-img" href="images/nivus/nivus-exterior-04.jpg">
+                                <img class="img-fluid" src="images/nivus/nivus-exterior-04.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--=================================
+banner -->
+
+    <section class="welcome-4 page-section-ptb white-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="section-title">
+                        <h2>NUEVA AMAROK</h2>
+                        <div class="separator"></div>
+                        <p>Además de su robustés evidente, Amarok posee la mejor capacidad de carga del segmento: no solamente es capaz de llevar más de mil kilos en la caja, sino que también es la única pick up mediana a la que le entra un pallet. Por otra parte, los faros bi-xenón con luz de marcha diurna LED, junto con los antiniebla con luz estática de curva integrada, garantizan una visibilidad óptima aún en condiciones de mal tiempo.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!--=================================
+ banner -->
+
+    <section class="overview page-section-ptb bg-18">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <div class="overview-content">
+                        <h3 style="color:rgb(5, 5, 109)">LA PICK-UP PARA VOS</h3>
+                        <h2>Volkswagen Amarok</h2>
+                        <p> Sin dudas la pick up más potente del segmento, la nueva Amarok V6 viene cargada con 258 caballos de potencia para seguir creando historia dentro de la industria automotriz. </p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!--=================================
+banner -->
+
+    <!--=================================
+banner -->
+
+    <section class="owl-slider">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="owl-carousel popup-gallery" data-items="3" data-md-items="3" data-sm-items="2" data-xs-items="1" data-space="0">
+                        <div class="item">
+                            <a class="popup-img" href="images/amarok/amarok-exterior-00.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-exterior-00.jpg" alt="">
                             </a>
                         </div>
                         <div class="item">
-                            <a class="popup-img" href="images/t-cross/tcross-interior-01.jpg">
-                                <img class="img-fluid" src="images/t-cross/tcross-interior-01.jpg" alt="">
+                            <a class="popup-img" href="images/amarok/amarok-exterior-01.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-exterior-01.jpg" alt="">
                             </a>
                         </div>
                         <div class="item">
-                            <a class="popup-img" href="images/t-cross/tcross-interior-03.jpg">
-                                <img class="img-fluid" src="images/t-cross/tcross-interior-03.jpg" alt="">
+                            <a class="popup-img" href="images/amarok/amarok-exterior-02.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-exterior-02.jpg" alt="">
                             </a>
                         </div>
                         <div class="item">
-                            <a class="popup-img" href="images/t-cross/tcross-rendimiento-00.jpg">
-                                <img class="img-fluid" src="images/t-cross/tcross-rendimiento-00.jpg" alt="">
+                            <a class="popup-img" href="images/amarok/amarok-exterior-03.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-exterior-03.jpg" alt="">
                             </a>
                         </div>
                         <div class="item">
-                            <a class="popup-img" href="images/t-cross/tcross-rendimiento-01.jpg">
-                                <img class="img-fluid" src="images/t-cross/tcross-rendimiento-01.jpg" alt="">
+                            <a class="popup-img" href="images/amarok/amarok-exterior-04.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-exterior-04.jpg" alt="">
                             </a>
                         </div>
                         <div class="item">
-                            <a class="popup-img" href="images/t-cross/tcross-rendimiento-02.jpg">
-                                <img class="img-fluid" src="images/t-cross/tcross-rendimiento-02.jpg" alt="">
+                            <a class="popup-img" href="images/amarok/amarok-interior-00.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-interior-00.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/amarok/amarok-interior-01.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-interior-01.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/amarok/amarok-interior-02.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-interior-02.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/amarok/amarok-rendimiento-00.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-rendimiento-00.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/amarok/amarok-rendimiento-01.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-rendimiento-01.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/amarok/amarok-rendimiento-02.jpg">
+                                <img class="img-fluid" src="images/amarok/amarok-rendimiento-02.jpg" alt="">
                             </a>
                         </div>
                     </div>
@@ -291,141 +412,6 @@ banner -->
 
 
     <!--=================================
- design-section -->
-
-    <section class="design-section page-section-ptb">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <div class="section-title-la-page">
-                        <h2>2</h2>
-                        <span>DESIGN</span>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div id="tabs">
-                        <ul class="tabs text-center">
-                            <li data-tabs="tab1" class="active"> <span aria-hidden="true" class="icon-diamond"></span> ABOUT</li>
-                            <li data-tabs="tab2"><span aria-hidden="true" class="icon-list"></span>EXTERIOR</li>
-                            <li data-tabs="tab3"> <span aria-hidden="true" class="icon-equalizer"></span> INTERIOR</li>
-                        </ul>
-                        <div id="tab1" class="tabcontent">
-                            <div class="text-center">
-                                <h2><strong class="text-red">Engineering</strong> & design in synergy</h2>
-                                <b>LaFerrari was designed by the Ferrari Styling Centre which worked in synergy with the engineering and development departments from the very start of the model’s inception.</b>
-                                <img class="img-fluid center-block" src="images/car/31.jpg" alt="">
-                            </div>
-                            <div class="row row-eq-height no-gutter">
-                                <div class="col-lg-6 col-sm-12">
-                                    <div class="design-content">
-                                        <h2><strong class="text-red">Engineering </strong> & design in synergy</h2>
-                                        <p>LaFerrari was designed by the Ferrari Styling Centre which worked in synergy with the engineering and development departments from the very start of the model’s inception.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 design-tab-bg-01">
-                                </div>
-                            </div>
-                            <div class="row row-eq-height no-gutter">
-                                <div class="col-md-6 design-tab-bg-02">
-                                </div>
-                                <div class="col-lg-6 col-md-12">
-                                    <div class="design-content">
-                                        <h2><strong class="text-red">Engineering </strong> & design in synergy</h2>
-                                        <p>LaFerrari was designed by the Ferrari Styling Centre which worked in synergy with the engineering and development departments from the very start of the model’s inception.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="tab2" class="tabcontent">
-                            <div class="row">
-                                <div class="col-lg-3 col-sm-6">
-                                    <img class="img-fluid w-100" src="images/car/34.jpg">
-                                </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <img class="img-fluid w-100" src="images/car/35.jpg">
-                                </div>
-                                <div class="col-lg-6 col-sm-12">
-                                    <div class="text-left tab-02-content">
-                                        <h2><strong class="text-red">Engineering</strong> & design in synergy</h2>
-                                        <b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <a class="text-red" href="#">tempor incididunt </a> ut labore et dolore magna aliqua.</b>
-                                        <p> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum. dolore eu fugiat nulla pariatur.
-                                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row row-eq-height no-gutter">
-                                <div class="col-lg-6 col-sm-12">
-                                    <div class="design-content">
-                                        <h2><strong class="text-red">Engineering </strong> & design in synergy</h2>
-                                        <p>LaFerrari was designed by the Ferrari Styling Centre which worked in synergy with the engineering and development departments from the very start of the model’s inception.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 design-tab-bg-03">
-                                </div>
-                            </div>
-                            <div class="row row-eq-height no-gutter">
-                                <div class="col-md-6 design-tab-bg-04">
-                                </div>
-                                <div class="col-lg-6 col-sm-12">
-                                    <div class="design-content">
-                                        <h2><strong class="text-red">Engineering </strong> & design in synergy</h2>
-                                        <p>LaFerrari was designed by the Ferrari Styling Centre which worked in synergy with the engineering and development departments from the very start of the model’s inception.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="tab3" class="tabcontent">
-                            <div class="row tab-03-content">
-                                <div class="col-md-12">
-                                    <b>LaFerrari was designed by the Ferrari Styling Centre which worked in synergy with the engineering and development departments from the very start of the model’s inception.</b>
-                                </div>
-                                <div class="col-md-4">
-                                    <img class="img-fluid w-100" src="images/car/36.jpg">
-                                </div>
-                                <div class="col-md-4">
-                                    <img class="img-fluid w-100" src="images/car/37.jpg">
-                                </div>
-                                <div class="col-md-4">
-                                    <img class="img-fluid w-100" src="images/car/38.jpg">
-                                </div>
-                            </div>
-                            <br /><br />
-                            <div class="row row-eq-height no-gutter">
-                                <div class="col-lg-6 col-sm-12">
-                                    <div class="design-content">
-                                        <h2><strong class="text-red">Engineering </strong> & design in synergy</h2>
-                                        <p>LaFerrari was designed by the Ferrari Styling Centre which worked in synergy with the engineering and development departments from the very start of the model’s inception.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 design-tab-bg-05">
-                                </div>
-                            </div>
-                            <div class="row row-eq-height no-gutter">
-                                <div class="col-md-6 design-tab-bg-06">
-                                </div>
-                                <div class="col-lg-6 col-sm-12">
-                                    <div class="design-content">
-                                        <h2><strong class="text-red">Engineering </strong> & design in synergy</h2>
-                                        <p>LaFerrari was designed by the Ferrari Styling Centre which worked in synergy with the engineering and development departments from the very start of the model’s inception.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!--=================================
- design-section -->
-
-
-
-
-    <!--=================================
  contact -->
 
     <section class="contact-section page-section-ptb gray-bg">
@@ -433,21 +419,19 @@ banner -->
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title-la-page gray">
-                        <h2>5</h2>
-                        <span>Contact</span>
+                        <span>Formulario de contacto</span>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-12">
-                    <h5>Request information</h5>
                     <div class="white-form">
                         <div id="formmessage">Success/Error Message Goes Here</div>
                         <form class="form-horizontal" id="contactform" role="form" method="post" action="https://www.gastonbarbaccia.com">
                             <div class="contact-form row">
                                 <div class="col-lg-6 col-md-12">
                                     <div class="form-group">
-                                        <input id="name" type="text" placeholder="Name*" class="form-control" name="name">
+                                        <input id="name" type="text" placeholder="Nombre*" class="form-control" name="name">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-12">
@@ -457,17 +441,17 @@ banner -->
                                 </div>
                                 <div class="col-lg-12 col-md-12">
                                     <div class="form-group">
-                                        <input type="text" placeholder="Phone*" class="form-control" name="phone">
+                                        <input type="text" placeholder="Teléfono*" class="form-control" name="phone">
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12">
                                     <div class="form-group">
-                                        <textarea class="form-control input-message" placeholder="Comment*" rows="7" name="message"></textarea>
+                                        <textarea class="form-control input-message" placeholder="Consulta*" rows="7" name="message"></textarea>
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12">
                                     <input type="hidden" name="action" value="sendEmail" />
-                                    <button id="submit" name="submit" type="submit" value="Send" class="button btn-block red"> Send your message </button>
+                                    <button id="submit" name="submit" type="submit" value="Send" class="button btn-block red"> Enviar </button>
                                 </div>
                             </div>
                         </form>
@@ -488,7 +472,7 @@ banner -->
     <!--=================================
  contact whatsapp -->
 
- <a href="https://wa.me/541138497740?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+    <a href="https://wa.me/541138497740?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
 
     <!--=================================
  get-quote -->
@@ -499,8 +483,8 @@ banner -->
                 <div class="col-lg-12 col-md-12">
                     <div class="quote-content text-center">
                         <i class="fa fa-car"></i>
-                        <h2 class="text-white">do you need help in choosing a car? </h2>
-                        <p class="text-white">Call us : <span class="text-red"> (007) 123 456 7890</span> </p>
+                        <h2 class="text-white">Necesita ayuda eligiendo un auto? </h2>
+                        <p class="text-white">Contáctenos : <span class="text-red"> (011) 1538497740</span> </p>
                     </div>
                 </div>
             </div>
