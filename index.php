@@ -58,8 +58,8 @@
         position: fixed;
         width: 60px;
         height: 60px;
-        bottom: 348px;
-        right: 20px;
+        bottom: 150px;
+        right: 45px;
         background-color: #25d366;
         color: #FFF;
         border-radius: 50px;
@@ -486,10 +486,10 @@ banner -->
     </section>
 
     <!--=================================
- contact -->
- <!--
- <a href="https://wa.me/5211234567890?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
--->
+ contact whatsapp -->
+
+ <a href="https://wa.me/521138497740?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+
     <!--=================================
  get-quote -->
 
