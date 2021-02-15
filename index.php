@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from themes.potenzaglobalsolutions.com/html/cardealer/index-landing-page.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 15 Feb 2021 04:19:30 GMT -->
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -73,13 +71,32 @@
     .mfp-bottom-bar {
         display: none;
     }
+
+    .whatsapp {
+        position: fixed;
+        width: 60px;
+        height: 60px;
+        bottom: 348px;
+        right: 20px;
+        background-color: #25d366;
+        color: #FFF;
+        border-radius: 50px;
+        text-align: center;
+        font-size: 30px;
+        z-index: 100;
+    }
+
+    .whatsapp-icon {
+        margin-top: 13px;
+    }
+    
+ 
 </style>
 
 <body>
 
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557RCPW"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557RCPW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
     <!--=================================
@@ -347,7 +364,7 @@ banner -->
                                 <div class="col-lg-6 col-sm-12">
                                     <div class="text-left tab-02-content">
                                         <h2><strong class="text-red">Engineering</strong> & design in synergy</h2>
-                                        <b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <a class="text-red" href="#">tempor incididunt </a>  ut labore et dolore magna aliqua.</b>
+                                        <b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <a class="text-red" href="#">tempor incididunt </a> ut labore et dolore magna aliqua.</b>
                                         <p> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum. dolore eu fugiat nulla pariatur.
                                             Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
                                     </div>
@@ -475,8 +492,7 @@ banner -->
                 <div class="col-lg-6 col-md-12">
                     <div class="contact-form">
                         <h5>Find Dealer</h5>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3224.017231421863!2d-79.43780268425046!3d36.09306798010035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88532bae09664ccb%3A0xaa6b8f98d3fb8135!2s220+E+Front+St%2C+Burlington%2C+NC+27215%2C+USA!5e0!3m2!1sen!2sin!4v1475045272926"
-                            style="width: 100%; height: 324px; border:0" allowfullscreen></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3224.017231421863!2d-79.43780268425046!3d36.09306798010035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88532bae09664ccb%3A0xaa6b8f98d3fb8135!2s220+E+Front+St%2C+Burlington%2C+NC+27215%2C+USA!5e0!3m2!1sen!2sin!4v1475045272926" style="width: 100%; height: 324px; border:0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -486,7 +502,7 @@ banner -->
 
     <!--=================================
  contact -->
-
+ <a href="https://wa.me/5211234567890?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
 
     <!--=================================
  get-quote -->
@@ -598,7 +614,5 @@ get-quote -->
     <script type="text/javascript" src="js/style-customizer.js"></script>
 
 </body>
-
-<!-- Mirrored from themes.potenzaglobalsolutions.com/html/cardealer/index-landing-page.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 15 Feb 2021 04:21:02 GMT -->
 
 </html>
