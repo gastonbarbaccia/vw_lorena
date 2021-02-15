@@ -106,8 +106,8 @@
                         <div class="slider-content text-left">
                             <h2 class="text-white">Volkswagen Amarok</h2>
                             <h1 class="text-white">Promoción 0Km!</h1>
-                            <h4 class="text-white" style="width: 60%;">Accede al Plan Nacional de Financiación Directa de Fabrica Cuotas Sin Interés desde $10.800</h4>
-                            <h4 class="text-white" style="width: 60%;">Precio desde 1.203.800</h4>
+                            <h4 class="text-white" style="width: 60%;">Accede al Plan Nacional de Financiación Directa de Fabrica Cuotas Sin Interés desde $22.000</h4>
+                            <h4 class="text-white" style="width: 60%;">Precio desde $2.839.000</h4>
                         </div>
                     </div>
                 </div>
