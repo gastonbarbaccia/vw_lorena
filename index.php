@@ -424,6 +424,196 @@ banner -->
 
 
     <!--=================================
+banner -->
+
+    <section class="welcome-4 page-section-ptb white-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="section-title">
+                        <h2>NUEVA GOL TREND</h2>
+                        <div class="separator"></div>
+                        <p>El Gol fue diseñado para que viajes más cómodo.
+                            Por eso incorpora ítems de confort como levantavidrios eléctricos para el conductor y el acompañante. Además, el Gol viene con soporte para el teléfono celular con puerto USB de carga, para que tus manos estén siempre en el volante. Por último, el Gol viene equipado con sistema de audio "Media Plus" con conexión bluetooth para que puedas viajar disfrutando tu música favorita.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!--=================================
+ banner -->
+
+    <section class="overview page-section-ptb bg-19">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <div class="overview-content">
+                        <h3 style="color:rgb(5, 5, 109)">EL AUTO PARA DISFRUTAR DE LA SALIDA</h3>
+                        <h2>Volkswagen Gol Trend</h2>
+                        <p> El Gol Trend ha sido testeado para la vida: te propone una experiencia completa de confort, potencia y flexibilidad.</p>
+                    </div>
+                    <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $13.000</strong></p>
+                    <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $1.300.000</p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!--=================================
+banner -->
+
+    <!--=================================
+banner -->
+
+    <section class="owl-slider">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="owl-carousel popup-gallery" data-items="3" data-md-items="3" data-sm-items="2" data-xs-items="1" data-space="0">
+                        <div class="item">
+                            <a class="popup-img" href="images/gol/gol-exterior-1.jpg">
+                                <img class="img-fluid" src="images/gol/gol-exterior-1.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/gol/gol-exterior-2.jpg">
+                                <img class="img-fluid" src="images/gol/gol-exterior-2.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/gol/gol-interior-0.jpg">
+                                <img class="img-fluid" src="images/gol/gol-interior-0.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/gol/gol-interior-1.jpg">
+                                <img class="img-fluid" src="images/gol/gol-interior-1.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/gol/gol-interior-2.jpg">
+                                <img class="img-fluid" src="images/gol/gol-interior-2.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--=================================
+banner -->
+
+
+
+
+    <!--=================================
+banner -->
+
+    <section class="welcome-4 page-section-ptb white-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="section-title">
+                        <h2>NUEVA POLO TRENDLINE</h2>
+                        <div class="separator"></div>
+                        <p>El Polo es una perfecta combinación de tecnología, innovación y tradición. Es una referencia en deportividad dentro de su segmento gracias a su diseño imponente y exclusivo. Los detalles de calidad en rojo y negro brillante, su frontal aguerrida nos muestran toda la deportividad en una sola mirada. Cabe destacar su sistema de iluminación ultra eficiente: los faros Full LED, exclusivos de la versión GTS, te aseguran una excelente iluminación tanto diurna como nocturna. Así mismo, los faros de manejo diurno facilitan la visualización durante el día además de proporcionar una visual mucho más moderna.
+                            Por otra parte, el Polo está equipado con un motor 250TSI y un sistema de cambios rápido y preciso, que nos proporcionan la deportividad digna de un auténtico GTS.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!--=================================
+ banner -->
+
+    <section class="overview page-section-ptb bg-20">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <div class="overview-content">
+                        <h3 style="color:rgb(5, 5, 109)">AUTÉNTICO Y PRECISO</h3>
+                        <h2>Volkswagen Polo Trendline</h2>
+                        <p> El Nuevo Polo GTS viene con diversos equipamientos de seguridad y confort que no sólo van a impresionarte, te van a dar ganas de no bajarte nunca.</p>
+                    </div>
+                    <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $14.500</strong></p>
+                    <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $1.600.000</p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!--=================================
+banner -->
+
+    <!--=================================
+banner -->
+
+    <section class="owl-slider">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="owl-carousel popup-gallery" data-items="3" data-md-items="3" data-sm-items="2" data-xs-items="1" data-space="0">
+                        <div class="item">
+                            <a class="popup-img" href="images/polo/polo-exterior-01.jpg">
+                                <img class="img-fluid" src="images/polo/polo-exterior-01.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/polo/polo-exterior-02.jpg">
+                                <img class="img-fluid" src="images/polo/polo-exterior-02.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/polo/polo-exterior-03.jpg">
+                                <img class="img-fluid" src="images/polo/polo-exterior-03.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/polo/polo-exterior-04.jpg">
+                                <img class="img-fluid" src="images/polo/polo-exterior-04.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/polo/polo-interior-01.jpg">
+                                <img class="img-fluid" src="images/polo/polo-interior-01.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/polo/polo-interior-02.jpg">
+                                <img class="img-fluid" src="images/polo/polo-interior-02.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/polo/polo-interior-03.jpg">
+                                <img class="img-fluid" src="images/polo/polo-interior-03.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a class="popup-img" href="images/polo/polo-interior-04.jpg">
+                                <img class="img-fluid" src="images/polo/polo-interior-04.jpg" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--=================================
+banner -->
+
+
+
+    <!--=================================
  contact -->
 
     <section class="contact-section page-section-ptb gray-bg">
