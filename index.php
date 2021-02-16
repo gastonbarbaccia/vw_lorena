@@ -73,6 +73,13 @@
     #tawkchat-minified-iframe-element {
         display: none !important;
     }
+
+    @media (max-width: 992px) {
+        .col-mobile{
+            margin-bottom:50px !important;
+        }
+ 
+    }
 </style>
 
 <body>
@@ -682,12 +689,11 @@ banner -->
     <section class="get-quote page-section-ptb bg-5">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 col-md-12">
+                <div class="col-lg-12 col-md-12 col-mobile">
                     <div class="quote-content text-center">
                         <i class="fa fa-car"></i>
                         <h2 class="text-white">Necesita ayuda eligiendo un auto? </h2>
-                        <p class="text-white">Contáctenos</p>
-                        <p class="text-white"><span class="text-red"> (011) 1538497740</span> </p>
+                        <p class="text-white">Contáctenos : <span class="text-red"> (011) 1538497740</span> </p>
                     </div>
                 </div>
             </div>
@@ -705,7 +711,7 @@ get-quote -->
         <div class="copyright">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 col-md-12">
+                    <div class="col-lg-6 col-md-12 ">
                         <div class="text-lg-left text-center">
                             <p>©Copyright 2021 Volkswagen Creditos 0km <a href="#" target="_blank"></a></p>
                         </div>
