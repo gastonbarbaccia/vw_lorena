@@ -6,9 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="keywords" content="HTML5 Template" />
     <meta name="description" content="Volkswagen Créditos 0km" />
-    <meta name="author" content="potenzaglobalsolutions.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>Volkswagen Creditos 0km</title>
+    <title>Volkswagen Créditos 0km</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico" />
