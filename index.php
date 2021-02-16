@@ -686,7 +686,8 @@ banner -->
                     <div class="quote-content text-center">
                         <i class="fa fa-car"></i>
                         <h2 class="text-white">Necesita ayuda eligiendo un auto? </h2>
-                        <p class="text-white">Contáctenos : <span class="text-red"> (011) 1538497740</span> </p>
+                        <p class="text-white">Contáctenos</p>
+                        <p class="text-white"><span class="text-red"> (011) 1538497740</span> </p>
                     </div>
                 </div>
             </div>
