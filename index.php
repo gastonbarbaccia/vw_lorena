@@ -635,8 +635,14 @@ banner -->
             <div class="row">
                 <div class="col-lg-6 col-md-12">
                     <div class="white-form">
-                        <div id="formmessage">Success/Error Message Goes Here</div>
-                        <form class="form-horizontal" id="contactform" role="form" method="post" action="https://www.gastonbarbaccia.com">
+                        <div class="row">
+                            <div class="col-12">
+                                <div id="mensaje-enviado" name="mensaje-enviado" class="alert alert-success contact__msg" style="display: none" role="alert">
+                                    Tu mensaje fue enviado exitosamente.
+                                </div>
+                            </div>
+                        </div>
+                        <form class="form-horizontal contact__form" id="contactform" role="form" method="post" action="enviar.php">
                             <div class="contact-form row">
                                 <div class="col-lg-6 col-md-12">
                                     <div class="form-group">
@@ -664,20 +670,15 @@ banner -->
                                 </div>
                             </div>
                         </form>
-                        <div id="ajaxloader" style="display:none;text-align:center"><img class="center-block" src="images/ajax-loader.gif" alt=""></div>
+                        <!--<div id="ajaxloader" style="display:none;text-align:center"><img class="center-block" src="images/ajax-loader.gif" alt=""></div>
+                    -->
+
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <div class="contact-form">
                         <h5>Find Dealer</h5>
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3224.017231421863!2d-79.43780268425046!3d36.09306798010035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88532bae09664ccb%3A0xaa6b8f98d3fb8135!2s220+E+Front+St%2C+Burlington%2C+NC+27215%2C+USA!5e0!3m2!1sen!2sin!4v1475045272926" style="width: 100%; height: 324px; border:0" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div id="mensaje-enviado" name="mensaje-enviado" class="alert alert-success contact__msg" style="display: none" role="alert">
-                        Tu mensaje fue enviado exitosamente.
                     </div>
                 </div>
             </div>
@@ -795,6 +796,7 @@ get-quote -->
 
     <!-- custom -->
     <script type="text/javascript" src="js/custom.js"></script>
+    <script type="text/javascript" src="main.js"></script>
 
     <!-- style customizer  -->
     <script type="text/javascript" src="js/style-customizer.js"></script>
