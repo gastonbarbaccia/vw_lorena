@@ -3,7 +3,7 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     #Reemplazar este correo por el correo electrónico del destinatario
-    $mail_to = "gastonbarbaccia@hotmail.com";
+    $mail_to = "fernandezvictoriavw@gmail.com";
     
     # Envío de datos
     $subject = "Formulario de contacto VW Creditos 0km";
