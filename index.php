@@ -124,7 +124,7 @@
                             <h1 class="text-white">Promoción 0Km!</h1>
                             <h4 class="text-white" style="width: 60%;">Accede al Plan Nacional de Financiación Directa de Fabrica Cuotas Sin Interés desde $22.000</h4>
                             <h4 class="text-white" style="width: 60%;">Precio desde $2.839.000</h4>
-                            <h4 class="text-white" style="width: 60%;">Retirá con un anticipo de $800.000.</h4>
+                            <h4 class="text-white" style="width: 60%;">Retirá con un anticipo de $573.000.</h4>
                             <br>
                             <h2 class="text-white" style="width: 80%;"> Tomamos tu usuado como parte de pago.</h2>
                             <h4 class="text-white" style="width: 60%;">Tasa de interés 12% anual</h4>
@@ -170,6 +170,9 @@
                     </div>
                     <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $18.100</strong></p>
                     <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $2.000.000</p>
+                    <h4 class="text-white" style="width: 60%;">Retirá con un anticipo de $400.000.</h4>
+                    <br>
+                    <h2 class="text-white" style="width: 80%;"> Tomamos tu usuado como parte de pago.</h2>
                     <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                 </div>
             </div>
@@ -276,6 +279,9 @@
                     </div>
                     <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $20.000</strong></p>
                     <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $2.090.000</p>
+                    <h4 class="text-white" style="width: 60%;">Retirá con un anticipo de $450.200.</h4>
+                    <br>
+                    <h2 class="text-white" style="width: 80%;"> Tomamos tu usuado como parte de pago.</h2>
                     <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                 </div>
             </div>
@@ -353,6 +359,9 @@ banner -->
                     </div>
                     <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $22.000</strong></p>
                     <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $2.839.000</p>
+                    <h4 class="text-white" style="width: 60%;">Retirá con un anticipo de $573.000.</h4>
+                    <br>
+                    <h2 class="text-white" style="width: 80%;"> Tomamos tu usuado como parte de pago.</h2>
                     <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                 </div>
             </div>
@@ -471,6 +480,9 @@ banner -->
                     </div>
                     <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $13.000</strong></p>
                     <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $1.300.000</p>
+                    <h4 class="text-white" style="width: 60%;">Retirá con un anticipo de $270.000.</h4>
+                    <br>
+                    <h2 class="text-white" style="width: 80%;"> Tomamos tu usuado como parte de pago.</h2>
                     <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                 </div>
             </div>
@@ -560,6 +572,9 @@ banner -->
                     </div>
                     <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $14.500</strong></p>
                     <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $1.600.000</p>
+                    <h4 class="text-white" style="width: 60%;">Retirá con un anticipo de $330.000.</h4>
+                    <br>
+                    <h2 class="text-white" style="width: 80%;"> Tomamos tu usuado como parte de pago.</h2>
                     <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                 </div>
             </div>
