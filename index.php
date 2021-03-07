@@ -126,8 +126,8 @@
                             <h4 class="text-white" style="width: 60%;">Precio desde $2.839.000</h4>
                             <h4 class="text-white" style="width: 60%;">Retirá con un anticipo de $800.000.</h4>
                             <br>
-                            <h4 class="text-white" style="width: 80%;"> Tomamos tu usuado como parte de pago.</h4>
-                            <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
+                            <h2 class="text-white" style="width: 80%;"> Tomamos tu usuado como parte de pago.</h2>
+                            <h4 class="text-white" style="width: 60%;">Tasa de interés 12% anual</h4>
                         </div>
                     </div>
                 </div>
