@@ -173,7 +173,7 @@
                     <h4 style="width: 60%;color:rgb(5, 5, 109);">Retirá con un anticipo de $400.000.</h4>
                     <br>
                     <h2 style="width: 80%;color:rgb(5, 5, 109)"> Tomamos tu usuado como parte de pago.</h2>
-                    <h4 style="width: 60%;color:rgb(5, 5, 109);">Tasa de interés %12 anual</h4>
+                    <h4 style="width: 60%;color:rgb(5, 5, 109);">Tasa de interés 12% anual</h4>
                 </div>
             </div>
         </div>
@@ -282,7 +282,7 @@
                     <h4 style="width: 60%;color:rgb(5, 5, 109);">Retirá con un anticipo de $450.200.</h4>
                     <br>
                     <h2 style="width: 80%;color:rgb(5, 5, 109);"> Tomamos tu usuado como parte de pago.</h2>
-                    <h4 style="width: 60%;color:rgb(5, 5, 109);">Tasa de interés %12 anual</h4>
+                    <h4 style="width: 60%;color:rgb(5, 5, 109);">Tasa de interés 12% anual</h4>
                 </div>
             </div>
         </div>
@@ -362,7 +362,7 @@ banner -->
                     <h4 style="width: 60%;color:rgb(5, 5, 109);">Retirá con un anticipo de $573.000.</h4>
                     <br>
                     <h2 style="width: 80%;color:rgb(5, 5, 109);"> Tomamos tu usuado como parte de pago.</h2>
-                    <h4 style="width: 60%;color:rgb(5, 5, 109);">Tasa de interés %12 anual</h4>
+                    <h4 style="width: 60%;color:rgb(5, 5, 109);">Tasa de interés 12% anual</h4>
                 </div>
             </div>
         </div>
@@ -483,7 +483,7 @@ banner -->
                     <h4 style="width: 60%;color:rgb(5, 5, 109);">Retirá con un anticipo de $270.000.</h4>
                     <br>
                     <h2 style="width: 80%;color:rgb(5, 5, 109);"> Tomamos tu usuado como parte de pago.</h2>
-                    <h4 style="width: 60%;color:rgb(5, 5, 109);">Tasa de interés %12 anual</h4>
+                    <h4 style="width: 60%;color:rgb(5, 5, 109);">Tasa de interés 12% anual</h4>
                 </div>
             </div>
         </div>
@@ -575,7 +575,7 @@ banner -->
                     <h4 style="width: 60%;color:rgb(5, 5, 109);">Retirá con un anticipo de $330.000.</h4>
                     <br>
                     <h2 style="width: 80%;color:rgb(5, 5, 109);"> Tomamos tu usuado como parte de pago.</h2>
-                    <h4 style="width: 60%;color:rgb(5, 5, 109);">Tasa de interés %12 anual</h4>
+                    <h4 style="width: 60%;color:rgb(5, 5, 109);">Tasa de interés 12% anual</h4>
                 </div>
             </div>
         </div>
