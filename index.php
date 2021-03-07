@@ -124,6 +124,8 @@
                             <h1 class="text-white">Promoción 0Km!</h1>
                             <h4 class="text-white" style="width: 60%;">Accede al Plan Nacional de Financiación Directa de Fabrica Cuotas Sin Interés desde $22.000</h4>
                             <h4 class="text-white" style="width: 60%;">Precio desde $2.839.000</h4>
+                            <h4 class="text-white" style="width: 60%;">Retiras con </h4>
+                            <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                         </div>
                     </div>
                 </div>
@@ -166,6 +168,7 @@
                     </div>
                     <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $18.100</strong></p>
                     <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $2.000.000</p>
+                    <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                 </div>
             </div>
         </div>
@@ -271,6 +274,7 @@
                     </div>
                     <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $20.000</strong></p>
                     <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $2.090.000</p>
+                    <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                 </div>
             </div>
         </div>
@@ -347,6 +351,7 @@ banner -->
                     </div>
                     <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $22.000</strong></p>
                     <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $2.839.000</p>
+                    <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                 </div>
             </div>
         </div>
@@ -464,6 +469,7 @@ banner -->
                     </div>
                     <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $13.000</strong></p>
                     <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $1.300.000</p>
+                    <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                 </div>
             </div>
         </div>
@@ -552,6 +558,7 @@ banner -->
                     </div>
                     <p style="color:rgb(5, 5, 109);font-size:30px"><strong>Cuotas Sin Interés desde $14.500</strong></p>
                     <p style="color:rgb(5, 5, 109);font-size:20px"> Precio desde $1.600.000</p>
+                    <h4 class="text-white" style="width: 60%;">Tasa de interés %12 anual</h4>
                 </div>
             </div>
         </div>
@@ -689,7 +696,7 @@ banner -->
     <!--=================================
  contact whatsapp -->
 
-    <a href="https://wa.me/541138497740?text=Hola%20me%20podrias%20mandar%20mas%20información?" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+    <a href="https://wa.me/541154719891?text=Hola%20me%20podrias%20mandar%20mas%20información?" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
 
     <!--=================================
  get-quote -->
